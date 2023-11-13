@@ -4,13 +4,9 @@ This Java program, Prog02_MergeIt, is designed to merge two unordered movie coll
 How to Run
 Compile the Java program:
 
-bash
-Copy code
 javac Prog02_MergeIt.java
 Run the compiled program:
 
-bash
-Copy code
 java Prog02_MergeIt
 Follow the prompts to enter the filenames for the two movie collections and the output file.
 
@@ -21,8 +17,6 @@ For adding a movie: A,Title,Year,Review
 For deleting a movie: D,Title,Year,Review
 Example:
 
-css
-Copy code
 A,Spiderman,2018,PG-4
 D,Spiderman,2018,PG-4
 A,Inception,2010,PG-13
